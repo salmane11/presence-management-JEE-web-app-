@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+body{
+	text-align:center;
+	background-color:#DADDFC;
+	color:#2E4C6D
+}
+.table{
+	position:absolute;
+	width:100%;
+
+}
+.header{
+	font-family: serif;
+	font-size: 20px;
+	background-color:#FC997C;
+}
+.input{
+	text-align:left;
+	border-radius:5px;
+	margin :2px 2px 2px 2px;
+	padding: 5px 15px
+}
